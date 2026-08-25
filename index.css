@@ -1,3 +1,13 @@
 h1{
   color: green;
 }
+
+p{
+  color: red;
+  color: aqua;
+}
+
+#second-paragraph {
+  color: red;
+}
+/*This is for color*/
